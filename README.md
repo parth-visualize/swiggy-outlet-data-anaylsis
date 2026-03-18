@@ -146,7 +146,3 @@ A PowerPoint summary of the full analysis is available in:
 🔗 [GitHub](https://github.com/parth-visualize)
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
